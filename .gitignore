@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pip-*/
+models/
+samples/
+reports/
+Interpreter.exe
+Meeting Interpreter.lnk
+startup-error.log
+dist/
+build/
+portable-build/
+path-debug.txt
+capture-debug.log
+capture-debug.npy
+

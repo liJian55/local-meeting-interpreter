@@ -1,0 +1,23 @@
+Third-party components
+
+This private local application uses the following open-source components and models.
+Their original license texts are retained in the corresponding package dist-info
+directories under runtime\Lib\site-packages where supplied by the distributor.
+
+- Python: Python Software Foundation License.
+- PySide6 / Qt: LGPL-3.0-or-later (Qt for Python). Qt source and license information:
+  https://www.qt.io/licensing/open-source-lgpl-obligations
+- faster-whisper: MIT License.
+- CTranslate2: MIT License.
+- PyAV: BSD License.
+- PyAudioWPatch: MIT License.
+- SentencePiece: Apache-2.0.
+- NumPy: BSD-3-Clause.
+- Helsinki-NLP/opus-mt-zh-en: CC-BY-4.0.
+- Helsinki-NLP/opus-mt-en-zh: Apache-2.0.
+- faster-whisper small model: MIT License (OpenAI Whisper model).
+
+Model sources:
+https://huggingface.co/Helsinki-NLP/opus-mt-zh-en
+https://huggingface.co/Helsinki-NLP/opus-mt-en-zh
+https://huggingface.co/Systran/faster-whisper-small
